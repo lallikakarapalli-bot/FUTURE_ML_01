@@ -1,15 +1,16 @@
-##Sales Forecasting Using Linear Regression
-#Overview
+# Sales Forecasting Using Linear Regression
 
-This project predicts future sales using a Linear Regression model based on historical monthly sales data.
+## 📌 Project Overview
+This project uses Machine Learning (Linear Regression) to predict future sales based on historical monthly sales data. It helps businesses forecast upcoming sales trends and make better planning decisions.
 
-#Technologies Used
-Python
-Pandas
-Matplotlib
-Scikit-learn
-#Features
-Trains a Linear Regression model
-Predicts future sales for upcoming months
-Calculates Mean Absolute Error (MAE)
-Visualizes actual sales and prediction trend
+## 🚀 Features
+- Sales prediction using Linear Regression
+- Forecast future sales values
+- Calculate Mean Absolute Error (MAE)
+- Visualize data with graphs
+
+## 🛠️ Technologies Used
+- Python
+- Pandas
+- Matplotlib
+- Scikit-learn
